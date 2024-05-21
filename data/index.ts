@@ -50,7 +50,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently Building an Ecommerce Webstore",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -73,11 +73,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
+    title: "CookBook",
+    des: "A comprehensive guide with diverse recipes and cooking techniques.",
+    img: "/p1-1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/adrianhajdin?tab=repositories",
+    link: "https://github.com/KaalaAadmi/cookbook",
   },
   {
     id: 2,
@@ -175,28 +175,28 @@ export const workExperience = [
   {
     id: 1,
     title: "API Developer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    desc: "Assisted in developing APIs and integrating them into a web-based platform using React.js.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
     title: "API Developer",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-    className: "md:col-span-2", // change to md:col-span-2
+    desc: "Designed and developed APIs for mobile applications on both iOS & Android platforms using React Native.",
+    className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", // change to md:col-span-2
+    title: "Freelance Web Developer",
+    desc: "Led the development of web applications and mobile apps for clients, managing projects from concept to deployment.",
+    className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
     title: "Backend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    desc: "Developed and maintained backend services and APIs to support user-facing features using modern backend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
@@ -206,13 +206,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/KaalaAadmi",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "https://x.com/arnav264",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/arnav-bhattacharya-dublin/",
   },
 ];
