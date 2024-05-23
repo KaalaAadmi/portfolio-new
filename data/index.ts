@@ -85,7 +85,7 @@ export const projects = [
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://arnav-bhattacharya-portfolio.vercel.app/",
+    link: "https://yoom-video-meeting.vercel.app/sign-in?redirect_url=https%3A%2F%2Fyoom-video-meeting.vercel.app%2F",
   },
   {
     id: 3,
